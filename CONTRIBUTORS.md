@@ -1,3 +1,8 @@
+﻿#### Name: [Jack Scott](https://github.com/jscott97)
+ - Place: Auburn, AL, USA
+ - Bio: Software Engineering major
+ - GitHub: [jscott97](https://github.com/jscott97)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
